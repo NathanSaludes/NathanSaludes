@@ -1,4 +1,3 @@
-# Welcome to my world! 👋
 [![React Digital Artwork](https://www.admecindia.co.in/wp-content/uploads/2021/03/admec-react-fundamentals.jpg)](https://www.example.com/)
 <!--
 **NathanSaludes/NathanSaludes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
